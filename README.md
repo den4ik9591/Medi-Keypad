@@ -49,7 +49,7 @@ Check these against the schematic before building, in case I changed a pin later
 
 - [x] Schematic
 - [x] PCB placed and routed
-- [ ] DRC fully clean
+- [x] DRC fully clean
 - [ ] Silkscreen text on the keys
 - [ ] Case designed
 - [ ] Firmware
