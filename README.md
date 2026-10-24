@@ -30,10 +30,9 @@ Check these against the schematic before building, in case I changed a pin later
 
 ## Files
 
-- `Hardware/`: KiCad project (schematic and PCB)
-- `Gerbers/`: files for the PCB manufacturer
+- `Schematics/`: KiCad project (schematic and PCB)
+- `Production/`: files for the PCB manufacturer
 - `Images/`: screenshots of the design
-- `bom.csv`: bill of materials with prices
 
 ## Bill of Materials
 
