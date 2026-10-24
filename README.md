@@ -34,9 +34,7 @@ Check these against the schematic before building, in case I changed a pin later
 - `Production/`: files for the PCB manufacturer
 - `Images/`: screenshots of the design
 
-## Bill of Materials
 
-See [`bom.csv`](bom.csv). Add the table here once the prices are final.
 
 ## How I made it
 
