@@ -25,15 +25,11 @@ Made for Half Life (Week 3), following the MIDI keypad guide and then changing i
 | Slider RV2, RV1 | GPIO 1, 2 |
 | LED data (DIN) | GPIO 3 |
 | Encoder A, B | TX, RX |
-<img width="657" height="681" alt="Screenshot 2026-10-24 231630" src="https://github.com/user-attachments/assets/ee6ebc7e-bee1-4e92-83a8-08e6052f222c" />
-<img width="643" height="690" alt="Screenshot 2026-10-24 231647" src="https://github.com/user-attachments/assets/19918b95-79a4-420f-bafd-b9f15372c01f" />
-
 
 Check these against the schematic before building, in case I changed a pin later.
 
 ## Files
 
-- `Schematics/`: KiCad project (schematic and PCB)
 - `Production/`: files for the PCB manufacturer
 - `Images/`: screenshots of the design
 
@@ -53,9 +49,8 @@ Check these against the schematic before building, in case I changed a pin later
 - [x] Schematic
 - [x] PCB placed and routed
 - [x] DRC fully clean
-- [ ] Silkscreen text on the keys
-- [ ] Case designed
-- [ ] Firmware
+- [x] Case designed
+- [x] Firmware
 - [ ] Parts ordered and board built
 
 ## What I learned
