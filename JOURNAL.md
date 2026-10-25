@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmvfnvzeo00h401rpvwxdcleq). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Follow the guide and learn new things also add parts to make it unique
+> A custom USB MIDI keypad with 7 touch-sensitive piano keys, 3 buttons, a rotary encoder, 2 sliders and RGB LEDs, built around an ESP32-S3 on my own KiCad PCB, with a 3D printed enclosure designed in Fusion 360.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
