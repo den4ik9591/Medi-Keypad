@@ -1,3 +1,6 @@
+<img width="1649" height="1031" alt="Screenshot 2026-10-25 142341" src="https://github.com/user-attachments/assets/041f89c2-daaf-46f7-aa68-14a6212a9b8e" />
+<img width="657" height="681" alt="Screenshot 2026-10-24 231630" src="https://github.com/user-attachments/assets/e2dc5520-3045-46a4-9a75-434d2b694fa7" />
+<img width="643" height="690" alt="Screenshot 2026-10-24 231647" src="https://github.com/user-attachments/assets/521ffcbc-d06b-4c73-a369-4c5f1ea3df67" />
 # MIDI Keypad
 
 A custom MIDI keypad PCB with 7 capacitive touch keys, 3 mechanical buttons, a rotary encoder, 2 slide potentiometers and 3 RGB LEDs, all controlled by an ESP32-S3.
